@@ -25,7 +25,7 @@ let y = 0;
 
 gap = 110;
 
-let grav = 0.015;
+let grav = 0.02;
 let change = 1;
 
 let score = 0;
